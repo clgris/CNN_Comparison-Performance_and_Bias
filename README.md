@@ -1,1 +1,1 @@
-# bias_study
+#  CNN Comparison - Performance and Bias 
